@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px black;
+    border-radius: 10px;
+    height: 400px;
+}
+.Inp{
+    border:none;
+    padding: 10px;
+    margin: 10px;
+    border: 0.5px solid black;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+    font-size: 2vw;
+}
+.Inp:focus{
+    outline: none;
+}
